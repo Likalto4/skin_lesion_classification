@@ -530,7 +530,7 @@ watchdog=2.1.6=py39h06a4308_0
 wcwidth=0.2.5=pyhd3eb1b0_0
 webencodings=0.5.1=py39h06a4308_1
 websocket-client=0.58.0=py39h06a4308_4
-werkzeug=2.2.2=py39h06a4308_0
+werkzeug=2.2.3=py39h06a4308_0
 wget=1.21.3=h0b77cf5_0
 whatthepatch=1.0.2=py39h06a4308_0
 wheel=0.37.1=pyhd3eb1b0_0
